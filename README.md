@@ -1,33 +1,37 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# Hi there, I'm Dikshya Singh <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-###
+## Hey there 👋
+👩‍💻 This is Dikshya Singh
+I'm a Student of Computer Science and Engineering
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
 
-###
+- 📚 I'm currently learning Web Development
+- ⚡ In my free time, I work on my problrm solving skills.
+## Contact with me 📝
 
-<h1 align="center">Hey there 👋</h1>
+[<img align="left" alt="Aashish Sah | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 
-###
+[linkedin]:](https://www.linkedin.com/in/dikshya-singh-4627231b7/
+<br />
 
-<h3 align="left">👩‍💻 This is Dikshya Singh</h3>
+## My GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshyaSingh&layout=compact&langs_count=10" alt="Top Languages" />
+</p>
 
-<p align="left">I'm a Student of Computer Science and Engineering<br><br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time, I work on my problrm solving skills.</p>
+<br/>
 
-###
+## 🔥 Streak
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshyaSingh&theme=radical"/>
 
-###
+<br />
 
+---
+
+### Languages and Tools 🛠 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -43,9 +47,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br/>
