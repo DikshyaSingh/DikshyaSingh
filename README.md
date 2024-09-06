@@ -25,7 +25,9 @@ I'm a Student of Computer Science and Engineering
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshyaSingh&theme=radical"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=
+DikshyaSingh" alt="GitHub Streak" /></a>
+
 
 <br />
 
