@@ -6,7 +6,7 @@ I'm a Student of Computer Science and Engineering
 
 
 - 📚 I'm currently learning Web Development
-- ⚡ In my free time, I work on my problrm solving skills.
+- ⚡ In my free time, I work on my problem solving skills.
 ## Contact with me 📝
 
 [<img align="left" alt="Aashish Sah | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
