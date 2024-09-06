@@ -17,7 +17,7 @@ I'm a Student of Computer Science and Engineering
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshyaSingh&layout=compact&langs_count=10" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DikshyaSingh)](https://git.io/streak-stats)
 </p>
 
 <br/>
