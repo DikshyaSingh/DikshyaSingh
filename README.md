@@ -17,7 +17,7 @@ I'm a Student of Computer Science and Engineering
 ## My GitHub Stats
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DikshyaSingh)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikshyaSingh&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <br/>
@@ -25,8 +25,8 @@ I'm a Student of Computer Science and Engineering
 ## 🔥 Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=
-DikshyaSingh" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DikshyaSingh&theme=radical"/>
+</p>
 
 
 <br />
